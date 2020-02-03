@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ai.matrix</groupId>
+  <artifactId>tess-two</artifactId>
+  <versioning>
+    <release>9.1.0</release>
+    <versions>
+      <version>9.1.0</version>
+    </versions>
+    <lastUpdated>20200203143618</lastUpdated>
+  </versioning>
+</metadata>
